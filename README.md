@@ -38,4 +38,4 @@ extraídas e as instruções SELECT correspondentes às 15 informações extraí
 instrução se refere.
 
 
-
+### WORK DONE - 18/11/2021
